@@ -6,13 +6,14 @@
     "name": "Pablo García Rius",
     "phone": "+34 634 598 285",
     "label": "Software Engineer",
-    "image": "https://avatars0.githubusercontent.com/u/78724859?s=460&u=38f220a2c9c658141804f881c334c594eb1642ac&v=4",
+    "image": "/Profile.webp",
     "summary": "I'm a software engineer who can build apps from the ground up. I've worked mostly at startups so I am used to wearing many hats. I am a very product focused developer who prioritizes user feedback first and foremost. I'm generally very flexible when investigating new roles.",
     "website": "https://lordajax.com",
     "url": "https://lordajax.com",
     "email": "pablogrius@gmail.com",
     "location": {
       "city": "London",
+      "region": "United Kingdom",
       "countryCode": "GB"
     },
     "profiles": [
