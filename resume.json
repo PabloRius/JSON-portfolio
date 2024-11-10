@@ -63,27 +63,39 @@
   "skills": [
     {
       "level": "Mid",
-      "name": "javascript"
+      "name": "JavaScript"
     },
     {
       "level": "Mid",
-      "name": "react"
+      "name": "TypeScript"
     },
     {
       "level": "Mid",
-      "name": "css"
+      "name": "React"
     },
     {
       "level": "Mid",
-      "name": "sql"
+      "name": "HTML"
     },
     {
       "level": "Mid",
-      "name": "node"
+      "name": "CSS"
     },
     {
       "level": "Mid",
-      "name": "git"
+      "name": "MySQL"
+    },
+    {
+      "level": "Mid",
+      "name": "Node"
+    },
+    {
+      "level": "Mid",
+      "name": "Git"
+    },
+    {
+      "level": "Mid",
+      "name": "GitHub"
     },
     {
       "keywords": ["AWS", "G Cloud", "Heroku", "Caching"],
