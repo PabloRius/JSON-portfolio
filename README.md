@@ -15,15 +15,15 @@ Based on the design from <a href="https://github.com/BartoszJarocki/cv">Bartosz 
 
 <div align="center">
     <a href="#🚀-empezar">
-        Empezar
+        First steps
     </a>
     <span>&nbsp;✦&nbsp;</span>
     <a href="#🧞-comandos">
-        Comandos
+        Commands
     </a>
     <span>&nbsp;✦&nbsp;</span>
     <a href="#🔑-licencia">
-        Licencia
+        License
     </a>
     <span>&nbsp;✦&nbsp;</span>
     <a href="https://midu.dev">
@@ -56,12 +56,10 @@ Based on the design from <a href="https://github.com/BartoszJarocki/cv">Bartosz 
 
 ### 1. Using this [repo](https://github.com/PabloRius/JSON-portfolio) as a _template_ for your new Astro project
 
-- Yo uso [pnpm](https://pnpm.io/installation) como gestor de dependencias y empaquetador.
-
 ```bash
 
 # Initialise the project
-pnpm create astro@latest -- --template PabloRius/JSON-portfolio
+npm create astro@latest -- --template PabloRius/JSON-portfolio
 ```
 
 ### 2. Add your own information:
