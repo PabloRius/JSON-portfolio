@@ -1,54 +1,90 @@
-# Astro Starter Kit: Basics
+<div align="center">
+<h2>
+    Minimalist resume built for <b>Web</b> and <b>PDF</b>
+</h2>
+<p>
+JSON schema source <a href="https://jsonresume.org/schema/">jsonresume.org</a>
+</p>
 
-```sh
-npm create astro@latest -- --template basics
+<p>
+Based on the design from <a href="https://github.com/BartoszJarocki/cv">Bartosz Jarocki</a>
+
+</p>
+
+</div>
+
+<div align="center">
+    <a href="#🚀-empezar">
+        Empezar
+    </a>
+    <span>&nbsp;✦&nbsp;</span>
+    <a href="#🧞-comandos">
+        Comandos
+    </a>
+    <span>&nbsp;✦&nbsp;</span>
+    <a href="#🔑-licencia">
+        Licencia
+    </a>
+    <span>&nbsp;✦&nbsp;</span>
+    <a href="https://midu.dev">
+        Personal
+    </a>
+   
+</div>
+
+<p></p>
+
+<div align="center">
+
+![Astro Badge](https://img.shields.io/badge/Astro-BC52EE?logo=astro&logoColor=fff&style=flat)
+![GitHub stars](https://img.shields.io/github/stars/PabloRius/JSON-portfolio)
+![GitHub issues](https://img.shields.io/github/issues/PabloRius/JSON-portfolio)
+![GitHub forks](https://img.shields.io/github/forks/PabloRius/JSON-portfolio)
+![GitHub PRs](https://img.shields.io/github/issues-pr/PabloRius/JSON-portfolio)
+
+</div>
+
+<!-- <img src="portada.png"></img> -->
+
+## 🛠️ Stack
+
+- [**Astro**](https://astro.build/)
+- [**Typescript**](https://www.typescriptlang.org/)
+- [**Ninja Keys**](https://github.com/ssleptsov/ninja-keys)
+
+## 🚀 Empezar
+
+### 1. Using this [repo](https://github.com/PabloRius/JSON-portfolio) as a _template_ for your new Astro project
+
+- Yo uso [pnpm](https://pnpm.io/installation) como gestor de dependencias y empaquetador.
+
+```bash
+
+# Initialise the project
+pnpm create astro@latest -- --template PabloRius/JSON-portfolio
 ```
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/withastro/astro/tree/latest/examples/basics)
-[![Open with CodeSandbox](https://assets.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/p/sandbox/github/withastro/astro/tree/latest/examples/basics)
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/withastro/astro?devcontainer_path=.devcontainer/basics/devcontainer.json)
+### 2. Add your own information:
 
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
+Edit the file `resume.json` to create your own web-based and printable portfolio.
 
-![just-the-basics](https://github.com/withastro/astro/assets/2244813/a0a5533c-a856-4198-8470-2d67b1d7c554)
+### 3. Run your development server:
 
-## 🚀 Project Structure
-
-Inside of your Astro project, you'll see the following folders and files:
-
-```text
-/
-├── public/
-│   └── favicon.svg
-├── src/
-│   ├── components/
-│   │   └── Card.astro
-│   ├── layouts/
-│   │   └── Layout.astro
-│   └── pages/
-│       └── index.astro
-└── package.json
+```bash
+# Enjoy the results
+npm run dev
 ```
 
-Astro looks for `.astro` or `.md` files in the `src/pages/` directory. Each page is exposed as a route based on its file name.
-
-There's nothing special about `src/components/`, but that's where we like to put any Astro/React/Vue/Svelte/Preact components.
-
-Any static assets, like images, can be placed in the `public/` directory.
+1. Open [**http://localhost:4321**](http://localhost:4321/) on your browser to see the results 🚀
 
 ## 🧞 Commands
 
-All commands are run from the root of the project, from a terminal:
+|     | Comando         | Acción                                                            |
+| :-- | :-------------- | :---------------------------------------------------------------- |
+| ⚙️  | `dev` o `start` | Runs a local development server on `localhost:4321`.              |
+| ⚙️  | `build`         | Checks for errors and packs the code for production on `./dist/`. |
+| ⚙️  | `preview`       | A local preview `localhost:4321`                                  |
 
-| Command                   | Action                                           |
-| :------------------------ | :----------------------------------------------- |
-| `npm install`             | Installs dependencies                            |
-| `npm run dev`             | Starts local dev server at `localhost:4321`      |
-| `npm run build`           | Build your production site to `./dist/`          |
-| `npm run preview`         | Preview your build locally, before deploying     |
-| `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
-| `npm run astro -- --help` | Get help using the Astro CLI                     |
+## 🔑 License
 
-## 👀 Want to learn more?
-
-Feel free to check [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
+[MIT](LICENSE.txt) - Creado por [**Pablo García Rius**](https://pablo-garcia-rius.vercel.app/).
