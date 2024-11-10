@@ -62,20 +62,28 @@
   ],
   "skills": [
     {
-      "keywords": [
-        "HTML / JSX",
-        "SCSS / CSS / BEM / Styled Components",
-        "Javascript / Typescript",
-        "React / Next",
-        "Redux / Apollo"
-      ],
-      "level": "Senior",
-      "name": "Frontend"
+      "level": "Mid",
+      "name": "javascript"
     },
     {
-      "keywords": ["Node", "Ruby", "Python", "Postgres", "Redis", "Serverless"],
-      "level": "Senior",
-      "name": "Backend"
+      "level": "Mid",
+      "name": "react"
+    },
+    {
+      "level": "Mid",
+      "name": "css"
+    },
+    {
+      "level": "Mid",
+      "name": "sql"
+    },
+    {
+      "level": "Mid",
+      "name": "node"
+    },
+    {
+      "level": "Mid",
+      "name": "git"
     },
     {
       "keywords": ["AWS", "G Cloud", "Heroku", "Caching"],
