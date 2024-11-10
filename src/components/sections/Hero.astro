@@ -1,5 +1,9 @@
 ---
 import Section from "../Section.astro";
+
+import Mail from "@/icons/Mail.astro";
+import Phone from "icons/Phone.astro";
+
 import { basics } from "@cv";
 
 const { name, label, location, image, profiles, phone, email } = basics;
@@ -20,7 +24,21 @@ const { city, region } = location;
               title={`Send an email to ${name} via email at: ${email}`}
               target="_blank"
               rel="noopener noreferrer"
-            />
+            >
+              <Mail />
+            </a>
+          )
+        }
+        {
+          phone && (
+            <a
+              href={`tel:${phone}`}
+              title={`Call ${name} at: ${phone}`}
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <Phone />
+            </a>
           )
         }
       </footer>
