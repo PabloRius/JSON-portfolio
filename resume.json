@@ -20,7 +20,12 @@
       {
         "url": "https://github.com/PabloRius",
         "username": "PabloRius",
-        "network": "github"
+        "network": "GitHub"
+      },
+      {
+        "url": "https://www.linkedin.com/in/pablo-rius",
+        "username": "pablo-rius",
+        "network": "LinkedIn"
       }
     ]
   },
