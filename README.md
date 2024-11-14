@@ -44,7 +44,7 @@ Based on the design from <a href="https://github.com/BartoszJarocki/cv">Bartosz 
 
 </div>
 
-<!-- <img src="portada.png"></img> -->
+![Result](/Result.png)
 
 ## 🛠️ Stack
 
