@@ -46,13 +46,11 @@
       "institution": "Universidad Carlos III, Madrid"
     },
     {
-      "institution": "University of Technology",
-      "url": "http://universityoftechnology.com",
-      "area": "Computer Science",
+      "institution": "University of New South Wales",
+      "area": "Computer Science Engineering (Exchange)",
       "studyType": "Bachelor",
-      "startDate": "2010-09-01",
-      "endDate": "2014-06-30",
-      "score": "3.8 GPA",
+      "startDate": "2023-02-01",
+      "endDate": "2023-06-10",
       "courses": [
         "CS101 - Introduction to Computer Science",
         "CS201 - Data Structures and Algorithms",
@@ -164,7 +162,8 @@
       "description": "JSON Resume is a community driven open source initiative to create a JSON based standard for resumes. There is no reason why there can't be a common standard for writing a resume that can be extended with an ecosystem of open source tools.",
       "website": "http://jsonresume.org",
       "name": "JSON Resume",
-      "startDate": "2014-04-01"
+      "startDate": "2014-04-01",
+      "url": ""
     },
     {
       "highlights": [
@@ -177,7 +176,8 @@
       "description": "Following Google's CDN for jQuery, we decided to start a CDN for the less popular Javascript frameworks. The CDN is community moderated and open source on GitHub. We secured a partnership with Cloudflare who now supports the infrastructure.",
       "website": "http://www.cdnjs.com",
       "name": "Cdnjs",
-      "startDate": "2011-01-08"
+      "startDate": "2011-01-08",
+      "url": ""
     }
   ],
   "languages": [
