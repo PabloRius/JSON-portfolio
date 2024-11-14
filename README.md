@@ -8,6 +8,7 @@ JSON schema source <a href="https://jsonresume.org/schema/">jsonresume.org</a>
 
 <p>
 Based on the design from <a href="https://github.com/BartoszJarocki/cv">Bartosz Jarocki</a>
+Following the guide from <a href="https://github.com/midudev/minimalist-portfolio-json">MiduDev</a>
 
 </p>
 
@@ -26,7 +27,7 @@ Based on the design from <a href="https://github.com/BartoszJarocki/cv">Bartosz 
         License
     </a>
     <span>&nbsp;✦&nbsp;</span>
-    <a href="https://midu.dev">
+    <a href="https://pablo-garcia-rius.vercel.app/">
         Personal
     </a>
    
