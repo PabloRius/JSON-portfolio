@@ -74,7 +74,9 @@ const SKILLS_ICONS: Record<string, any> = {
                 const Icon = SKILLS_ICONS[skill];
                 return (
                   <li class="skill">
-                    {Icon && <Icon />}
+                    <div class="no-print">
+                      {Icon && <Icon class="no-print" />}
+                    </div>
                     <span>{skill}</span>
                   </li>
                 );
@@ -109,5 +111,11 @@ const SKILLS_ICONS: Record<string, any> = {
     font-weight: 500;
     gap: 4px;
     padding: 0.2rem 0.6rem;
+  }
+
+  .skill > div {
+    display: flex;
+    align-items: center;
+    justify-content: center;
   }
 </style>
