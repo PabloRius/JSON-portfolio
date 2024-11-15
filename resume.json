@@ -188,6 +188,12 @@
         "High performance"
       ],
       "url": "https://pablo-garcia-rius-minimalist.vercel.app/"
+    },
+    {
+      "name": "Tic Tac Toe React",
+      "description": "A basic Tic Tac Toe game using basic concepts from React hooks",
+      "highlights": ["React", "Custom hooks", "Responsive Design"],
+      "url": "https://tic-tac-toe-react-pgr.vercel.app/"
     }
   ],
   "languages": [
