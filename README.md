@@ -15,15 +15,15 @@ Following the guide from <a href="https://github.com/midudev/minimalist-portfoli
 </div>
 
 <div align="center">
-    <a href="#🚀-empezar">
+    <a href="# 🚀 First steps">
         First steps
     </a>
     <span>&nbsp;✦&nbsp;</span>
-    <a href="#🧞-comandos">
+    <a href="## 🧞 Commands">
         Commands
     </a>
     <span>&nbsp;✦&nbsp;</span>
-    <a href="#🔑-licencia">
+    <a href="## 🔑 License">
         License
     </a>
     <span>&nbsp;✦&nbsp;</span>
@@ -53,7 +53,7 @@ Following the guide from <a href="https://github.com/midudev/minimalist-portfoli
 - [**Typescript**](https://www.typescriptlang.org/)
 - [**Ninja Keys**](https://github.com/ssleptsov/ninja-keys)
 
-## 🚀 Empezar
+## 🚀 First steps
 
 ### 1. Using this [repo](https://github.com/PabloRius/JSON-portfolio) as a _template_ for your new Astro project
 
