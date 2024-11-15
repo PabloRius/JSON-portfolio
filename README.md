@@ -73,4 +73,4 @@ npm run dev
 
 ## 🔑 License
 
-[MIT](LICENSE.txt) - Creado por [**Pablo García Rius**](https://pablo-garcia-rius.vercel.app/).
+[MIT](LICENSE.txt) - Created By [**Pablo García Rius**](https://pablo-garcia-rius.vercel.app/).
