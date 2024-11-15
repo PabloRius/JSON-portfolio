@@ -1,8 +1,8 @@
 ---
 import Section from "../Section.astro";
 
-import HTML from "@/icons/html.astro";
-import CSS from "@/icons/css.astro";
+import HTML5 from "@/icons/html.astro";
+import CSS3 from "@/icons/css.astro";
 import JavaScript from "@/icons/javascript.astro";
 import TypeScript from "@/icons/type.astro";
 import React from "@/icons/react.astro";
@@ -16,25 +16,49 @@ import Swift from "@/icons/swift.astro";
 import SwiftUI from "@/icons/swiftui.astro";
 import Kotlin from "@/icons/kotlin.astro";
 import Flutter from "@/icons/flutter.astro";
+import Python from "@/icons/Python.astro";
+import C from "@/icons/c.astro";
+import astro from "@/icons/astro.astro";
+import Angular from "@/icons/angular.astro";
+import Express from "@/icons/express.astro";
+import Flask from "@/icons/flask.astro";
+import Springboot from "@/icons/springboot.astro";
+import Postgre from "@/icons/postgre.astro";
+import Mongo from "@/icons/mongo.astro";
+import AWS from "@/icons/aws.astro";
+import Docker from "@/icons/docker.astro";
+import GitLab from "@/icons/gitlab.astro";
 
 import { skills } from "@cv";
 
 const SKILLS_ICONS: Record<string, any> = {
-  HTML,
-  CSS,
+  HTML5,
+  CSS3,
   JavaScript,
   TypeScript,
   React,
-  Node,
+  "Node.js": Node,
   MySQL,
   Git,
   GitHub,
   Next,
-  Tailwind,
+  "Tailwind CSS": Tailwind,
   Swift,
   SwiftUI,
   Kotlin,
   Flutter,
+  Python,
+  C,
+  Astro: astro,
+  Angular,
+  Express,
+  Flask,
+  "Spring Boot": Springboot,
+  PostgreSQL: Postgre,
+  MongoDB: Mongo,
+  AWS,
+  Docker,
+  GitLab,
 };
 ---
 
