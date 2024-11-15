@@ -1,39 +1,28 @@
 <div align="center">
-<h2>
-    Minimalist resume built for <b>Web</b> and <b>PDF</b>
-</h2>
-<p>
-JSON schema source <a href="https://jsonresume.org/schema/">jsonresume.org</a>
-</p>
-
-<p>
-Based on the design from <a href="https://github.com/BartoszJarocki/cv">Bartosz Jarocki</a>
-Following the guide from <a href="https://github.com/midudev/minimalist-portfolio-json">MiduDev</a>
-
-</p>
-
+  <h2>
+    Minimalist Resume Built for <b>Web</b> and <b>PDF</b>
+  </h2>
+  <p>
+    JSON schema source: <a href="https://jsonresume.org/schema/">jsonresume.org</a>
+  </p>
+  <p>
+    Based on the design by <a href="https://github.com/BartoszJarocki/cv">Bartosz Jarocki</a>, inspired by the guide from <a href="https://github.com/midudev/minimalist-portfolio-json">MiduDev</a>.
+  </p>
 </div>
+
+---
 
 <div align="center">
-    <a href="# 🚀 First steps">
-        First steps
-    </a>
-    <span>&nbsp;✦&nbsp;</span>
-    <a href="## 🧞 Commands">
-        Commands
-    </a>
-    <span>&nbsp;✦&nbsp;</span>
-    <a href="## 🔑 License">
-        License
-    </a>
-    <span>&nbsp;✦&nbsp;</span>
-    <a href="https://pablo-garcia-rius.vercel.app/">
-        Personal
-    </a>
-   
+  <a href="#-first-steps">First Steps</a>
+  <span>&nbsp;✦&nbsp;</span>
+  <a href="#-commands">Commands</a>
+  <span>&nbsp;✦&nbsp;</span>
+  <a href="#-license">License</a>
+  <span>&nbsp;✦&nbsp;</span>
+  <a href="https://pablo-garcia-rius.vercel.app/">Personal</a>
 </div>
 
-<p></p>
+---
 
 <div align="center">
 
@@ -45,21 +34,19 @@ Following the guide from <a href="https://github.com/midudev/minimalist-portfoli
 
 </div>
 
-![Result](/Result.png)
+<img src="Result.png" height="90px" width="auto" />
 
 ## 🛠️ Stack
 
 - [**Astro**](https://astro.build/)
 - [**Typescript**](https://www.typescriptlang.org/)
-- [**Ninja Keys**](https://github.com/ssleptsov/ninja-keys)
+- [**Hotkeypad**](https://github.com/jesubohr/hotkeypad)
 
 ## 🚀 First steps
 
 ### 1. Using this [repo](https://github.com/PabloRius/JSON-portfolio) as a _template_ for your new Astro project
 
 ```bash
-
-# Initialise the project
 npm create astro@latest -- --template PabloRius/JSON-portfolio
 ```
 
@@ -70,7 +57,6 @@ Edit the file `resume.json` to create your own web-based and printable portfolio
 ### 3. Run your development server:
 
 ```bash
-# Enjoy the results
 npm run dev
 ```
 
@@ -78,11 +64,12 @@ npm run dev
 
 ## 🧞 Commands
 
-|     | Comando         | Acción                                                            |
+|     | Command         | Action                                                            |
 | :-- | :-------------- | :---------------------------------------------------------------- |
 | ⚙️  | `dev` o `start` | Runs a local development server on `localhost:4321`.              |
 | ⚙️  | `build`         | Checks for errors and packs the code for production on `./dist/`. |
 | ⚙️  | `preview`       | A local preview `localhost:4321`                                  |
+| ⚙️  | `sync   `       | Runs a syncronization process to fix dependencies                 |
 
 ## 🔑 License
 
