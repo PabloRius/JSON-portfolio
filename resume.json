@@ -1,7 +1,4 @@
 {
-  "meta": {
-    "theme": "professional"
-  },
   "basics": {
     "name": "Pablo García Rius",
     "phone": "+34 634 598 285",
@@ -31,177 +28,163 @@
   },
   "certificates": [
     {
-      "name": "Certified Kubernetes Administrator",
-      "date": "2021-05-01",
-      "issuer": "Cloud Native Computing Foundation",
-      "url": "http://certificates.com/kubernetes"
+      "name": "PCEP – Certified Entry-Level Python Programmer",
+      "issuer": "Python Institute",
+      "date": "2024-04-01",
+      "summary": "Demonstrates foundational knowledge of Python programming concepts, including syntax, data structures, functions, and error handling.",
+      "skills": ["Python"],
+      "url": "https://pythoninstitute.org/certification/pcep/"
     }
   ],
   "education": [
     {
-      "endDate": "2024-06-04",
-      "startDate": "2019-09-1",
+      "institution": "Universidad Carlos III de Madrid",
       "area": "Computer Science Engineering",
       "studyType": "Bachelors",
-      "institution": "Universidad Carlos III, Madrid"
+      "startDate": "2019-09-01",
+      "endDate": "2024-06-01",
+      "summary": "Focused on software engineering, project management, and data connectivity. Dissertation project recognized for creating a linked open data dataset and an interactive map visualization tool for socio-economic analysis in Madrid.",
+      "highlights": [
+        "Developed a linked open data dataset for Madrid municipalities' socioeconomic data, creating custom economic indicators and an interactive map using React and OpenLayers.",
+        "Scored 9.1 on dissertation project and received recognition from 'LODCoreMadrid' chair.",
+        "Led and delivered software projects using AGILE methodology, from requirements gathering to documentation.",
+        "Designed and managed relational and non-relational databases, building server-side applications with Spring (Java), Flask (Python), and Node.js."
+      ]
     },
     {
       "institution": "University of New South Wales",
       "area": "Computer Science Engineering (Exchange)",
-      "studyType": "Bachelor",
+      "studyType": "Bachelors",
       "startDate": "2023-02-01",
       "endDate": "2023-06-10",
-      "courses": [
-        "CS101 - Introduction to Computer Science",
-        "CS201 - Data Structures and Algorithms",
-        "CS301 - Operating Systems"
+      "summary": "6-month exchange program focusing on full-stack development and cloud computing. Worked in a team environment to build scalable applications and enhance technical and interpersonal skills.",
+      "highlights": [
+        "Led a 6-member international team on a full-stack application project, developing a frontend with Angular and a REST API service in Flask for e-invoice management.",
+        "Gained hands-on experience with AWS, deploying and maintaining applications using services like EBS, RDS, and Lambda.",
+        "Strengthened conflict-resolution and communication skills while working in a multicultural environment."
       ]
     }
   ],
   "skills": [
     {
-      "level": "Mid",
-      "name": "JavaScript"
+      "name": "Programming Languages",
+      "keywords": ["JavaScript", "TypeScript", "Python", "C"]
     },
     {
-      "level": "Mid",
-      "name": "TypeScript"
+      "name": "Frontend Development",
+      "keywords": ["HTML5", "CSS3", "React", "Astro", "Angular", "Tailwind CSS"]
     },
     {
-      "level": "Mid",
-      "name": "React"
+      "name": "Backend Development",
+      "keywords": [
+        "Node.js",
+        "Express",
+        "Flask",
+        "Spring Boot",
+        "REST APIs",
+        "Microservices"
+      ]
     },
     {
-      "level": "Mid",
-      "name": "HTML"
+      "name": "Databases",
+      "keywords": ["SQL", "NoSQL", "MySQL", "PostgreSQL", "MongoDB"]
     },
     {
-      "level": "Mid",
-      "name": "CSS"
+      "name": "Cloud & DevOps",
+      "keywords": ["AWS", "Azure IoT", "Docker", "CI/CD", "GitHub Actions"]
     },
     {
-      "level": "Mid",
-      "name": "MySQL"
+      "name": "Version Control & Collaboration",
+      "keywords": ["Git", "GitHub", "GitLab", "JIRA", "Confluence"]
     },
     {
-      "level": "Mid",
-      "name": "Node"
+      "name": "Business Intelligence & Data Analysis",
+      "keywords": [
+        "Power BI",
+        "Data Visualization",
+        "Data Cleaning",
+        "Data Transformation"
+      ]
     },
     {
-      "level": "Mid",
-      "name": "Git"
+      "name": "Software Development Methodologies",
+      "keywords": [
+        "Agile",
+        "Scrum",
+        "Kanban",
+        "Lean",
+        "Test-Driven Development (TDD)"
+      ]
     },
     {
-      "level": "Mid",
-      "name": "GitHub"
-    },
-    {
-      "keywords": ["AWS", "G Cloud", "Heroku", "Caching"],
-      "level": "Senior",
-      "name": "Devops"
+      "name": "Soft Skills",
+      "keywords": [
+        "Problem-solving",
+        "Team Leadership",
+        "Effective Communication",
+        "Adaptability",
+        "Time Management",
+        "Project Planning",
+        "Conflict Resolution"
+      ]
     }
   ],
   "awards": [
     {
-      "title": "Defender of the Internet",
-      "awarder": "Fight For The Future",
-      "date": "2014-10-02",
-      "summary": "For my work against mass surveillance and building out civic tools for digital democracy."
-    }
-  ],
-  "publications": [
-    {
-      "name": "Advanced JavaScript Techniques",
-      "publisher": "Tech Books Publishing",
-      "releaseDate": "2019-08-01",
-      "url": "http://techbookspublishing.com/advanced-javascript",
-      "summary": "A comprehensive guide to modern JavaScript development."
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "Open Source Project",
-      "position": "Contributor",
-      "url": "http://opensourceproject.com",
-      "startDate": "2016-01-01",
-      "summary": "Contributing to open source projects to improve software quality.",
-      "highlights": [
-        "Fixed critical bugs and added new features.",
-        "Mentored new contributors."
-      ]
+      "title": "LODCoreMadrid Chair 2nd Award",
+      "awarder": "LODCoreMadrid",
+      "date": "2024-10-02",
+      "summary": "Recognized for outstanding contributions to the development of a linked open data dataset for Madrid municipalities, which enhanced socio-economic data analysis and connectivity. The interactive map created for the project received special commendation."
     }
   ],
   "work": [
     {
-      "summary": "Over the past several years, I've worked at various roles and companies. Mostly early stage startups, doing full stack product development. ",
-      "name": "NTT Data Europe & Latam",
-      "location": "Madrid, Spain",
-      "position": "Software Engineer, Intern",
-      "startDate": "2023-09-15",
-      "endDate": "2024-05-20",
-      "highlights": ["React / Angular", "Node / Python", "Digital Twins"]
-    },
-    {
-      "summary": "Tokenized is a Bitcoin wallet for issuing, managing and trading digital tokens. I built out the front end which was packaged as an electron app. It was a difficult frontend to build because we store the users keys locally and used them to sign transactions and contracts.",
       "name": "TK Elevators",
       "location": "Madrid, Spain",
-      "position": "Bussiness Intelligence Analyst, Intern",
-      "startDate": "2024-07-01",
-      "endDate": "2024-12-20",
-      "highlights": ["PowerBI", "Python", "OSH"]
+      "position": "Business Intelligence Analyst Intern",
+      "startDate": "2024-06-01",
+      "endDate": "Present",
+      "summary": "Contributed to data-driven decision-making and operational improvements through advanced data analysis and reporting tools.",
+      "highlights": [
+        "Developed performance indicators for the OSH department, using large datasets to identify trends and enabling managers to prioritize improvement areas effectively.",
+        "Designed safety analysis reports with Power BI, visualizing incident trends to guide high-risk zone interventions and preventive measures.",
+        "Streamlined data integration for incident reporting using Node.js and APIs, automating updates and providing continuous data access, reducing analysis delays."
+      ]
+    },
+    {
+      "name": "NTT Data Europe & Latam",
+      "location": "Madrid, Spain",
+      "position": "Software Engineer Intern",
+      "startDate": "2023-09-01",
+      "endDate": "2024-05-31",
+      "summary": "Worked on full-stack development projects, streamlining sensor data processing and enhancing data visualization capabilities.",
+      "highlights": [
+        "Developed a full-stack project using Azure IoT, Node.js, and React, enabling real-time interaction and visualization of sensor data for a showroom.",
+        "Created the frontend for Renfe's real-time data visualization app using React and TypeScript, improving safety management with automated alerts.",
+        "Implemented CI/CD pipelines using GitHub Actions, automating deployments and testing, reducing deployment times by 50%."
+      ]
     }
   ],
   "projects": [
     {
+      "name": "Resume JSON Version",
+      "description": "A personal resume built using Astro, showcasing a lightweight and optimized approach for web and PDF formats. The project emphasizes simplicity, modern web development practices, and scalability.",
       "highlights": [
-        "This resume is built with JSON Resume",
-        "Over 3000 stars on Github",
-        "Community developed themes",
-        "Tens of thousands of users"
+        "Designed and developed a responsive resume using Astro, a modern framework for fast and efficient static site generation.",
+        "Optimized for both web viewing and PDF printing, ensuring seamless user experience across platforms.",
+        "Implemented lightweight dependencies and modular design to ensure high performance and maintainability."
       ],
-      "description": "JSON Resume is a community driven open source initiative to create a JSON based standard for resumes. There is no reason why there can't be a common standard for writing a resume that can be extended with an ecosystem of open source tools.",
-      "website": "http://jsonresume.org",
-      "name": "JSON Resume",
-      "startDate": "2014-04-01",
-      "url": ""
-    },
-    {
-      "highlights": [
-        "Millions of sites use the CDN in production",
-        "Larger market share than Yahoo's, Microsoft's and Google's javascript content distribution networks",
-        "We serve hundreds of billions request a month",
-        "Contains over 3000 popular Javascript libraries",
-        "Millions of developers visit the site per year"
-      ],
-      "description": "Following Google's CDN for jQuery, we decided to start a CDN for the less popular Javascript frameworks. The CDN is community moderated and open source on GitHub. We secured a partnership with Cloudflare who now supports the infrastructure.",
-      "website": "http://www.cdnjs.com",
-      "name": "Cdnjs",
-      "startDate": "2011-01-08",
-      "url": ""
+      "url": "https://pablo-garcia-rius-minimalist.vercel.app/"
     }
   ],
   "languages": [
     {
       "language": "English",
+      "fluency": "Advanced Level"
+    },
+    {
+      "language": "Spanish",
       "fluency": "Native speaker"
-    }
-  ],
-  "interests": [
-    {
-      "name": "Gardening",
-      "keywords": ["Lazy Gardening"]
-    },
-    {
-      "name": "Music",
-      "keywords": ["Guitar", "Singing", "Dancing"]
-    },
-    {
-      "name": "Books",
-      "keywords": ["Reading", "Writing", "History"]
-    },
-    {
-      "name": "Open Source",
-      "keywords": ["All of it"]
     }
   ]
 }
