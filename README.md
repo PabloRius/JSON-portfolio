@@ -34,7 +34,7 @@
 
 </div>
 
-<img src="Result.png" height="90px" width="auto" />
+<img src="Result.png" />
 
 ## 🛠️ Stack
 
