@@ -170,9 +170,13 @@
       "name": "Resume JSON Version",
       "description": "A personal resume built using Astro, showcasing a lightweight and optimized approach for web and PDF formats. The project emphasizes simplicity, modern web development practices, and scalability.",
       "highlights": [
-        "Designed and developed a responsive resume using Astro, a modern framework for fast and efficient static site generation.",
-        "Optimized for both web viewing and PDF printing, ensuring seamless user experience across platforms.",
-        "Implemented lightweight dependencies and modular design to ensure high performance and maintainability."
+        "Responsive Resume",
+        "Astro framework",
+        "Fast and efficient",
+        "Optimized for Web PDF printing",
+        "Lightweight dependencies",
+        "Modular design",
+        "High performance"
       ],
       "url": "https://pablo-garcia-rius-minimalist.vercel.app/"
     }
