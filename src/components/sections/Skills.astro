@@ -41,12 +41,21 @@ const SKILLS_ICONS: Record<string, any> = {
 <Section title="Skills">
   <ul>
     {
-      skills.map(({ name }) => {
-        const Icon = SKILLS_ICONS[name];
+      skills.map(({ name, keywords }) => {
         return (
           <li>
-            {Icon && <Icon />}
-            <span>{name}</span>
+            <h3>{name}</h3>
+            <ul>
+              {keywords.map((skill) => {
+                const Icon = SKILLS_ICONS[skill];
+                return (
+                  <li class="skill">
+                    {Icon && <Icon />}
+                    <span>{skill}</span>
+                  </li>
+                );
+              })}
+            </ul>
           </li>
         );
       })
@@ -61,7 +70,12 @@ const SKILLS_ICONS: Record<string, any> = {
     flex-wrap: wrap;
   }
 
-  li {
+  h3 {
+    font-weight: 500;
+    margin-bottom: 0.75rem;
+  }
+
+  .skill {
     align-items: center;
     background: #eee;
     border-radius: 6px;
