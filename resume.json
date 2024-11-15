@@ -4,8 +4,7 @@
     "phone": "+34 634 598 285",
     "label": "Software Engineer",
     "image": "/Profile.webp",
-    "summary": "I'm a software engineer who can build apps from the ground up. I've worked mostly at startups so I am used to wearing many hats. I am a very product focused developer who prioritizes user feedback first and foremost. I'm generally very flexible when investigating new roles.",
-    "website": "https://lordajax.com",
+    "summary": "I am a versatile Software Engineer with a passion for building impactful digital solutions. With experience spanning full-stack development and Data Analysis, I bring a product-focused mindset to every project. My background includes working international teams in large organizations, where I’ve delivered high-performance applications, optimized workflows, and automated complex processes. I am always eager to explore new technologies and solve challenging problems that create meaningful value.",
     "url": "https://lordajax.com",
     "email": "pablogrius@gmail.com",
     "location": {
@@ -146,9 +145,11 @@
       "endDate": "Present",
       "summary": "Contributed to data-driven decision-making and operational improvements through advanced data analysis and reporting tools.",
       "highlights": [
-        "Developed performance indicators for the OSH department, using large datasets to identify trends and enabling managers to prioritize improvement areas effectively.",
-        "Designed safety analysis reports with Power BI, visualizing incident trends to guide high-risk zone interventions and preventive measures.",
-        "Streamlined data integration for incident reporting using Node.js and APIs, automating updates and providing continuous data access, reducing analysis delays."
+        "OSH performance indicators",
+        "Data trend analysis",
+        "Power BI safety reports",
+        "Node.js and API integration",
+        "Automated data access"
       ]
     },
     {
@@ -159,9 +160,11 @@
       "endDate": "2024-05-31",
       "summary": "Worked on full-stack development projects, streamlining sensor data processing and enhancing data visualization capabilities.",
       "highlights": [
-        "Developed a full-stack project using Azure IoT, Node.js, and React, enabling real-time interaction and visualization of sensor data for a showroom.",
-        "Created the frontend for Renfe's real-time data visualization app using React and TypeScript, improving safety management with automated alerts.",
-        "Implemented CI/CD pipelines using GitHub Actions, automating deployments and testing, reducing deployment times by 50%."
+        "Azure IoT data processing",
+        "Real-time data visualization",
+        "React and TypeScript frontend",
+        "Automated CI/CD pipelines",
+        "Deployment time reduction"
       ]
     }
   ],
