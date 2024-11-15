@@ -44,10 +44,14 @@
       "endDate": "2024-06-01",
       "summary": "Focused on software engineering, project management, and data connectivity. Dissertation project recognized for creating a linked open data dataset and an interactive map visualization tool for socio-economic analysis in Madrid.",
       "highlights": [
-        "Developed a linked open data dataset for Madrid municipalities' socioeconomic data, creating custom economic indicators and an interactive map using React and OpenLayers.",
-        "Scored 9.1 on dissertation project and received recognition from 'LODCoreMadrid' chair.",
-        "Led and delivered software projects using AGILE methodology, from requirements gathering to documentation.",
-        "Designed and managed relational and non-relational databases, building server-side applications with Spring (Java), Flask (Python), and Node.js."
+        "Linked Open Data",
+        "Interactive map - React and OpenLayers.",
+        "Scored 9.1 on dissertation",
+        "Recognition from 'LODCoreMadrid' chair.",
+        "AGILE methodology",
+        "Relational and non-relational databases",
+        "Server-side applications - Spring, Flask, and Node.js.",
+        "Data Structures and Algorithms - Python, C"
       ]
     },
     {
@@ -58,9 +62,11 @@
       "endDate": "2023-06-10",
       "summary": "6-month exchange program focusing on full-stack development and cloud computing. Worked in a team environment to build scalable applications and enhance technical and interpersonal skills.",
       "highlights": [
-        "Led a 6-member international team on a full-stack application project, developing a frontend with Angular and a REST API service in Flask for e-invoice management.",
-        "Gained hands-on experience with AWS, deploying and maintaining applications using services like EBS, RDS, and Lambda.",
-        "Strengthened conflict-resolution and communication skills while working in a multicultural environment."
+        "International team",
+        "Full-stack Software Devlopment project",
+        "Frontend - Angular, a REST API service - Flask",
+        "AWS - EBS, RDS, and Lambda.",
+        "Communication skills in a multicultural environment."
       ]
     }
   ],
